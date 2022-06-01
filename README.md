@@ -2,4 +2,4 @@
 
 Добавили первый текст
 
-Добавили текст через браузер. Add english text in local
+Добавили текст через браузер. Add english text in browser
